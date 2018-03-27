@@ -1,0 +1,31 @@
+Story:
+	You have successfully survived on this world for years, you have created a mega-factory, producing everything you could every need on this planet: Weapons, Food, Armour, It can even built itself.
+You are sitting in your office, marveling in execellence of the full autonomy you engineered for this base. You look down at the systems monitor and notice that the factory is quickly running out of fuel. 
+You scramble to design a power plant that will run off of the most abundand resource you have availible, wouldn't want to miss your daily quota would you? You scourage your storage crafts and find your out
+of anything useable, but you find your quarry dug out this weird green glowing metal, you grab it. Then you have the most brilliant idea you've ever had. "Look at that lake their, maybe if I put this weird
+metal in a box with some water it'll create power." You strap a thermal generator around a box, drag it over to the clsest outlet in the factory and plug it in, and then fill up the box. Whew! You wipe the 
+sweat off your forehead as the contraption starts producing power. "Wow, I can't believe how effective this is!" Only in your haste you fogot to put a temperature sensor on it, so you don't notice how fast
+the temperature was rising. As you go to take a nap in your office, BOOM! Your contraption has exploded, taking half of your factory with it. "Oh no" you cry, until you notice these weird blobs on the floor.
+This is how you had discovered the atom.      
+
+
+-Each block in minecraft is composed of elements just like real life
+-A periodic table which shows elements as you discover them, will show useful information about elements, but will be tiers of info that requires progress or research to learn more info
+-Will be mid to late game
+-The periodic table will be similar to the real life version, each the identity of an element is based off how many protons (p+) are in the nucleus, starting at 1 (Like hydrogen)
+	-Elements also have valence electrons (Ve-), different states(gas, liquid, solid)
+	-Elements will be sorted based on (Ve-), (p+), atomic weigh, and element characteristics
+	-There will only be neurtal charge elements and compounds, no ions 
+	-All elements can have a max of 8 (Ve-), except for the 1 (p+) and 2 (p+) elements which can only have 2 (Ve-) max
+	-There will only be covalent bonds
+-Elements and Compounds can be used for crafting in a machine that uses recipes, compounds can also be formed in that machine, using a lewis structure diagram instead of a recipe
+	-Some recipes and compounds will be discovered on discovery of new elements, some will be found though experimentation, be careful some elements are highly reactive (explosive)
+-Research and lewis structures will be done in a Lab Notebook
+	-Lewis Structure will be done much like real life
+	-Place down the elements you want to use to make a compound, place bonds between them, bonds count as 2 (Ve-) for each element bonded 
+-First machine will be a nuclear fission reactor, will be multiblock, generates power and breaks down elements, but outputs radiation and for more powerful or bigger fission reactors a radiation suit will be neccisary
+	-Fission reactor requires some uranium to run, but uses it very slowly
+	-Fission reactor will use power to split a proton off of an element, outputing heat, a 1(p+) element, and a element with one less (p+) than the starting elelment
+	-The more protons/the heavier an element, to more energy to complete fission and the more heat put off
+	-Heat can be used to produce power to make the energy cost a bit less, but will not be able to fully power a reactor by itself
+- 
